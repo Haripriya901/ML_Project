@@ -1,2 +1,5 @@
-# ML_Project
-ML_Project
+pip install streamlit
+
+cd cloud
+
+streamlit run main.py
